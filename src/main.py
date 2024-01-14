@@ -2,6 +2,9 @@ import random
 
 
 class Game:
+    """
+    Famous Rock/Paper/Scissor Game
+    """
     def __init__(self):
         self.choices = ['r', 'p', 's']
 
